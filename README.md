@@ -13,7 +13,7 @@ A place to describe and link to some personal, individual projects across variou
   - Transfer learning using ResNet-34 to classify pizza images from two categories, Chicago Deep Dish and New York Style
 
 
-## Reports from Applied Statistical Learning Class (Stat508 @Penn State)
+## Reports from Statistical Learning Class (Stat508 @Penn State)
 - [Predicting Direction of Weekly Stock Index Movements](https://github.com/JaleelSavoy/DataReports/blob/master/PredictingStockIndexMovementDirection/Data%20Analysis%20Lesson%208.ipynb)
   - Used weekly S&P 500 stock index data to test evalute and compare the performances of models fitted using Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, and k-Nearest Neighbors Classification. 
 
