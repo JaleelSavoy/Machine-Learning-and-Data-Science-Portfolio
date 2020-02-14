@@ -1,4 +1,5 @@
-# Machine-Learning-and-Data-Science-Portfolio by Jaleel Walter Henry Savoy
+# Machine Learning and Data Science Portfolio 
+### by Jaleel Walter Henry Savoy
 A place to describe and link to some personal, individual projects across various repositories. 
 
 ## Deep Learning Practice Projects
