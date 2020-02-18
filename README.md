@@ -18,7 +18,7 @@ A place to describe and link to some personal, individual projects across variou
   - Used weekly S&P 500 stock index data to test evalute and compare the performances of models fitted using Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, and k-Nearest Neighbors Classification. 
 
 - [Predicting the Perception of Wikipedia as a Higher Education Teaching Resource](https://github.com/JaleelSavoy/DataReports/blob/master/WikipediaForHigherEducation/WikipediaForHigherEducationAnalysis.ipynb)
-  - Used data collected from a 2012 study on faculty members from two universities in Spain, UOC and UPF, to predict respondents Wikipedia use behavior based on their demographics, backgrounds, and responses to the surveys other questions.
+  - Used data collected from a 2012 study on faculty members from two universities in Spain, UOC and UPF, to predict respondents' Wikipedia use behavior based on their demographics, backgrounds, and responses to the survey's other questions.
   
 - [Predicting Consumer Purchase Behavior](https://github.com/JaleelSavoy/DataReports/blob/master/PredictingOrangeJuicePurchases/DataAnalysisAssignment9.ipynb)
   - Used data collected on consumer purchasing behavior to predict which orange juice brand a consumer would purchase based on features that included report customer loyalty, location of the purchase, prices, discounts, and more.
