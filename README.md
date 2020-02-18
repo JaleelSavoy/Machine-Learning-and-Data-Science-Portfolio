@@ -4,10 +4,10 @@ A place to describe and link to some personal, individual projects across variou
 
 ## Deep Learning Practice Projects
 - [Deep Clustering on 2016-2017 Season NBA Player Data](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepClusteringNBAPlayers20162017.ipynb)
-  - Used a Deep Autoencoder to extract latent features from the data and then performed Kmeans Clustering on those features to identify clusters of players that had similar overall performance levels. The clustering groups, when ranked based on average player-efficiency ratings, can be interpreted as general tiers for that season. For example, cluster group 1, which contained Russel West and James Harden, would be MVP tier, while cluster group 2, which contained LeBron James and Kevin Durant, would be Elite Tier.
+  - Used a Deep Autoencoder to extract latent features from the data and then performed Kmeans Clustering on those features to identify clusters of players that had similar overall performance levels. The clustering groups, when ranked based on average player-efficiency ratings, can be interpreted as general tiers for that season. For example, cluster group 1, which contained Russel West and James Harden, would be MVP-tier, while cluster group 2, which contained LeBron James and Kevin Durant, would be Elite-Tier.
   
 - [Deep Autoencoder on Fashion-MNIST](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepAutoencoders_fMNIST.ipynb)
-  - A showcase of both a standard autoencoder and a convolutional autoencoder on the Fashion-MNIST data set. The notebook shows a straight forward reconstruction using the autoencoders, as well as a demonstration of the autoencoders ability to reduce noise in image data.
+  - A showcase of both a standard autoencoder and a convolutional autoencoder on the Fashion-MNIST data set. The notebook shows a straight forward reconstruction using the autoencoders, as well as a demonstration of the autoencoder's ability to reduce noise in image data.
 
 - [Deep Dish Learner](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepDishLearnerAnalysis.ipynb)
   - Transfer learning using ResNet-34 to classify pizza images from two categories, Chicago Deep Dish and New York Style
