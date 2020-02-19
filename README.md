@@ -22,3 +22,6 @@ A place to describe and link to some personal, individual projects across variou
   
 - [Predicting Consumer Purchase Behavior](https://github.com/JaleelSavoy/DataReports/blob/master/PredictingOrangeJuicePurchases/DataAnalysisAssignment9.ipynb)
   - Used data collected on consumer purchasing behavior to predict which orange juice brand a consumer would purchase based on features that included report customer loyalty, location of the purchase, prices, discounts, and more.
+  
+  ## Machine Learning Engineering
+  coming soon...
