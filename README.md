@@ -2,6 +2,10 @@
 ### by Jaleel Walter Henry Savoy
 A place to describe and link to some personal, individual projects across various repositories. 
 
+## Machine Learning Engineering
+[Web App to Predict Percent Change in Bike Rentals](https://predicted-capital-bikeshare.herokuapp.com/)
+  - A simple web application built using Flask on Heroku to predict percent change in Capital Bikeshare rentals. The model is a 3-layer deep neural network built with TensorFlow and is achieves an R-squared of 72.56%. The data from the project can be found [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset#).
+
 ## Deep Learning Practice Projects
 - [Predicting Dota 2 Match Outcomes](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/PredictingDota2MatchOutcomes.ipynb)
   - Trained a deep neural network to learn predict Dota 2 match outcomes using only match details, which includes data on the characters each team chooses, the game mode (All Pick, Captain's Mode, etc.), the lobby type (ranked, tutorial etc.), and server region cluster ID. 
@@ -24,7 +28,3 @@ A place to describe and link to some personal, individual projects across variou
   
 - [Predicting Consumer Purchase Behavior](https://github.com/JaleelSavoy/DataReports/blob/master/PredictingOrangeJuicePurchases/DataAnalysisAssignment9.ipynb)
   - Used data collected on consumer purchasing behavior to predict which orange juice brand a consumer would purchase based on features that included report customer loyalty, location of the purchase, prices, discounts, and more.
-  
-## Machine Learning Engineering
-[Web App to Predict Percent Change in Bike Rentals](https://predicted-capital-bikeshare.herokuapp.com/)
-  - A simple web application built using Flask on Heroku to predict percent change in Capital Bikeshare rentals. The model is a 3-layer deep neural network built with TensorFlow and is achieves an R-squared of 72.56%. The data from the project can be found [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset#).
