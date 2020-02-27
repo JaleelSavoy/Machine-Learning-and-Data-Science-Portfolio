@@ -26,4 +26,5 @@ A place to describe and link to some personal, individual projects across variou
   - Used data collected on consumer purchasing behavior to predict which orange juice brand a consumer would purchase based on features that included report customer loyalty, location of the purchase, prices, discounts, and more.
   
 ## Machine Learning Engineering
-coming soon...
+[Web App to Predict Percent Change in Bike Rentals](https://predicted-capital-bikeshare.herokuapp.com/)
+  - A simple web application built using Flask on Heroku to predict percent change in Capital Bikeshare rentals. The model is a 3-layer deep neural network built with TensorFlow and is achieves an R-squared of 72.56%. The data from the project can be found [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset#).
