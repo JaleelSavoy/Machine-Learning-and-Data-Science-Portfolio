@@ -2,7 +2,7 @@
 ### by Jaleel Walter Henry Savoy
 A place to describe and link to some personal, individual projects across various repositories.
 
-[Resume](https://www.dropbox.com/s/nntcz8e367373z4/JaleelWalterHenrySavoyResume2020.pdf?dl=0)
+[Resume](https://www.dropbox.com/s/0g5inoy4uev4dzg/JaleelWalterHenrySavoyResume2020.pdf?dl=0)
 
 ## Machine Learning Engineering
 [Web App to Predict Percent Change in Bike Rentals](https://predicted-capital-bikeshare.herokuapp.com/)
