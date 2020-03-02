@@ -7,6 +7,7 @@ A place to describe and link to some personal, individual projects across variou
 ## Machine Learning Engineering
 [Web App to Predict Percent Change in Bike Rentals](https://predicted-capital-bikeshare.herokuapp.com/)
   - A simple web application built using Flask on Heroku to predict percent change in Capital Bikeshare rentals. The model is a 3-layer deep neural network built with TensorFlow and is achieves an R-squared of 72.56%. The data used for the project can be found [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset#).
+  
   **NOTE: May take a few seconds to load due to Heroku's free dynos sleeping after 30 minutes of no web traffic**
 
 ## Deep Learning Practice Projects
