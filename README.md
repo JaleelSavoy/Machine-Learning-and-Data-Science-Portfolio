@@ -6,7 +6,7 @@ A place to describe and link to some personal, individual projects across variou
 
 ## Machine Learning Engineering
 [Web App to Predict Percent Change in Bike Rentals](https://predicted-capital-bikeshare.herokuapp.com/)
-  - A simple web application built using Flask on Heroku to predict percent change in Capital Bikeshare rentals. The model is a 3-layer deep neural network built with TensorFlow and is achieves an R-squared of 72.56%. The data used for the project can be found [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset#). [Link to the repository](https://github.com/JaleelSavoy/BikeSharePrediction). **NOTE: May take a few seconds to load due to Heroku's free dynos sleeping after 30 minutes of no web traffic**
+  - A simple web application built using Flask on Heroku to predict percent change in Capital Bikeshare rentals. The model is a 3-layer deep neural network built with TensorFlow and is achieves an R-squared of 72.56%. The data used for the project can be found [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset#). **NOTE: May take a few seconds to load due to Heroku's free dynos sleeping after 30 minutes of no web traffic** [Link to the repository](https://github.com/JaleelSavoy/BikeSharePrediction)
 
 ## Deep Learning Practice Projects
 - [Predicting Dota 2 Match Outcomes](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/PredictingDota2MatchOutcomes.ipynb)
