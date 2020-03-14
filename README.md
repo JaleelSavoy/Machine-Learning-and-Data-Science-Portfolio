@@ -13,7 +13,7 @@ A place to describe and link to some personal, individual projects across variou
 
 ## Deep Learning Practice Projects
 - [Predicting Dota 2 Match Outcomes](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/PredictingDota2MatchOutcomes.ipynb)
-  - Trained a deep neural network to learn predict Dota 2 match outcomes using only match details, which includes data on the characters each team chooses, the game mode (All Pick, Captain's Mode, etc.), the lobby type (ranked, tutorial etc.), and server region cluster ID. 
+  - Trained a deep neural network to learn to predict Dota 2 match outcomes using only match details, which includes data on the characters each team chooses, the game mode (All Pick, Captain's Mode, etc.), the lobby type (ranked, tutorial etc.), and server region cluster ID. 
 
 - [Deep Clustering on 2016-2017 Season NBA Player Data](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepClusteringNBAPlayers20162017.ipynb)
   - Used a Deep Autoencoder to extract latent features from the data and then performed Kmeans Clustering on those features to identify clusters of players that had similar overall performance levels. The clustering groups, when ranked based on average player-efficiency ratings, can be interpreted as general tiers for that season. For example, cluster group 1, which contained Russel West and James Harden, would be MVP-tier, while cluster group 2, which contained LeBron James and Kevin Durant, would be Elite-Tier.
