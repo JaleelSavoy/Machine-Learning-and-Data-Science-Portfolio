@@ -5,7 +5,7 @@ A place to describe and link to some personal, individual projects across variou
 [Resume](https://www.dropbox.com/s/0g5inoy4uev4dzg/JaleelWalterHenrySavoyResume2020.pdf?dl=0)
 
 ## Machine Learning Engineering
-[MoivEvolve: Web App to Recommend Movies](https://movievolve.herokuapp.com/)
+[MoviEvolve: Web App to Recommend Movies](https://movievolve.herokuapp.com/)
   - A simple web application built using Flask on Heroku to provide movie recommendations using model-based, user-based collaborative filtering; the recommender uses hierarchical agglomerative clustering. The data used for the project can be found [here](https://grouplens.org/datasets/movielens/). **NOTE: May take a few seconds to load due to Heroku's free dynos sleeping after 30 minutes of no web traffic** [Link to the repository](https://github.com/JaleelSavoy/movie_recommendations)
   
 [Web App to Predict Percent Change in Bike Rentals](https://predicted-capital-bikeshare.herokuapp.com/)
