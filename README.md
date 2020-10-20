@@ -5,7 +5,7 @@ A place to describe and link to some personal, individual projects across variou
 [Resume](https://www.dropbox.com/s/8r2vlnm4rf8lxa5/JaleelWHSavoyResume2020.pdf?dl=0)
 
 ## Sports Analytics
-- [All-NBA Team Selections](https://github.com/JaleelSavoy/All-NBA-Bayesian-Network/blob/main/All%20NBA%20Team%20Predictions.ipynb)
+- [Factors That Influence All-NBA Team Selections](https://github.com/JaleelSavoy/All-NBA-Bayesian-Network/blob/main/All%20NBA%20Team%20Predictions.ipynb)
   - Fitted a Bayesian network using a subset of end-of-year player statistics to analyze the relationships between those variable and how they influence whether-or-not a player is selected to an All-NBA Team.
 
 - [Deep Clustering on 2016-2017 Season NBA Player Data](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepClusteringNBAPlayers20162017.ipynb)
