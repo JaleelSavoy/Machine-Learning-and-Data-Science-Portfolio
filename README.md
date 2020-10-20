@@ -4,6 +4,13 @@ A place to describe and link to some personal, individual projects across variou
 
 [Resume](https://www.dropbox.com/s/0g5inoy4uev4dzg/JaleelWalterHenrySavoyResume2020.pdf?dl=0)
 
+## Sports Analytics
+- [All-NBA Team Selections](https://github.com/JaleelSavoy/All-NBA-Bayesian-Network/blob/main/All%20NBA%20Team%20Predictions.ipynb)
+  - Fitted a Bayesian network using a subset of end-of-year player statistics to analyze the relationships between those variable and how they influence whether-or-not a player is selected to an All-NBA Team.
+
+- [Deep Clustering on 2016-2017 Season NBA Player Data](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepClusteringNBAPlayers20162017.ipynb)
+  - Used a Deep Autoencoder to extract latent features from the data and then performed Kmeans Clustering on those features to identify clusters of players that had similar overall performance levels. The clustering groups, when ranked based on average player-efficiency ratings, can be interpreted as general tiers for that season. For example, cluster group 1, which contained Russel West and James Harden, would be MVP-tier, while cluster group 2, which contained LeBron James and Kevin Durant, would be Elite-Tier.
+
 ## Machine Learning Engineering
 [MoviEvolve: Web App to Recommend Movies](https://movievolve.herokuapp.com/)
   - A simple web application built using Flask on Heroku to provide movie recommendations using model-based, user-based collaborative filtering; the recommender uses hierarchical agglomerative clustering. The data used for the project can be found [here](https://grouplens.org/datasets/movielens/). Currently it has an under-developed UI. **NOTE: May take a few seconds to load due to Heroku's free dynos sleeping after 30 minutes of no web traffic** [Link to the repository](https://github.com/JaleelSavoy/movie_recommendations)
@@ -14,9 +21,6 @@ A place to describe and link to some personal, individual projects across variou
 ## Deep Learning Practice Projects
 - [Predicting Dota 2 Match Outcomes](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/PredictingDota2MatchOutcomes.ipynb)
   - Trained a deep neural network to learn to predict Dota 2 match outcomes using only match details, which includes data on the characters each team chooses, the game mode (All Pick, Captain's Mode, etc.), the lobby type (ranked, tutorial etc.), and server region cluster ID. 
-
-- [Deep Clustering on 2016-2017 Season NBA Player Data](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepClusteringNBAPlayers20162017.ipynb)
-  - Used a Deep Autoencoder to extract latent features from the data and then performed Kmeans Clustering on those features to identify clusters of players that had similar overall performance levels. The clustering groups, when ranked based on average player-efficiency ratings, can be interpreted as general tiers for that season. For example, cluster group 1, which contained Russel West and James Harden, would be MVP-tier, while cluster group 2, which contained LeBron James and Kevin Durant, would be Elite-Tier.
   
 - [Deep Autoencoder on Fashion-MNIST](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepAutoencoders_fMNIST.ipynb)
   - A showcase of both a standard autoencoder and a convolutional autoencoder on the Fashion-MNIST data set. The notebook shows a straight forward reconstruction using the autoencoders, as well as a demonstration of the autoencoder's ability to reduce noise in image data.
