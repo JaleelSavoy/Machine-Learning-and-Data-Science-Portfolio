@@ -6,7 +6,7 @@ A place to describe and link to some personal, individual projects across variou
 
 ## Sports Analytics
 - [Factors That Influence All-NBA Team Selections](https://github.com/JaleelSavoy/All-NBA-Bayesian-Network/blob/main/All%20NBA%20Team%20Predictions.ipynb)
-  - Fitted a Bayesian network using a subset of end-of-year player statistics to analyze the relationships between those variable and how they influence whether-or-not a player is selected to an All-NBA Team.
+  - Fitted a Bayesian network using a subset of end-of-year player statistics to analyze the relationships between those variable and how they influence whether a player is selected to an All-NBA Team.
 
 - [Deep Clustering on 2016-2017 Season NBA Player Data](https://github.com/JaleelSavoy/DeepLearningPracticeProjects/blob/master/DeepClusteringNBAPlayers20162017.ipynb)
   - Used a Deep Autoencoder to extract latent features from the data and then performed Kmeans Clustering on those features to identify clusters of players that had similar overall performance levels. The clustering groups, when ranked based on average player-efficiency ratings, can be interpreted as general tiers for that season. For example, cluster group 1, which contained Russel West and James Harden, would be MVP-tier, while cluster group 2, which contained LeBron James and Kevin Durant, would be Elite-Tier.
