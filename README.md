@@ -2,7 +2,7 @@
 ### by Jaleel Walter Henry Savoy
 A place to describe and link to some personal, individual projects across various repositories.
 
-[Resume](https://www.dropbox.com/s/kwjn9jy8ro0dg5a/JaleelWHSavoyResume2020.pdf?dl=0)
+[Resume](https://www.dropbox.com/s/eyzp3mwl2hkhlff/JaleelWHSavoyResume.pdf?dl=0)
 
 ## Sports Analytics
 - [Factors That Influence All-NBA Team Selections](https://github.com/JaleelSavoy/All-NBA-Bayesian-Network/blob/main/All%20NBA%20Team%20Predictions.ipynb)
